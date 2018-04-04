@@ -46,6 +46,8 @@ nav:
     - { javascript : '/blog/categories/#javascript' }
     - { Django: '/blog/categories/#django' }
     - { ReactJS: '/blog/categories/#reactjs' }
+    - { ML: '/blog/categories/#ML' }
+    - { Docker : '/blog/categories/#docker' }
     - { etc: '/blog/categories/#etc' }
     # - { Tags: '/blog/tags/' }
   About:
